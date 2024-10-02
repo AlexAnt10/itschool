@@ -1,0 +1,7 @@
+﻿  angajat.cpp
+C:\Users\alexa\Desktop\itschool\angajat\angajat.cpp(17,2): warning C4091: 'typedef ': ignored on left of 'angajat' when no variable is declared
+C:\Users\alexa\Desktop\itschool\angajat\angajat.cpp(28,6): error C2086: 'int nr_angajati': redefinition
+  C:\Users\alexa\Desktop\itschool\angajat\angajat.cpp(27,6):
+  see declaration of 'nr_angajati'
+  
+C:\Users\alexa\Desktop\itschool\angajat\angajat.cpp(25,1): error C1075: '{': no matching token found

@@ -1,0 +1,182 @@
+﻿  ex18.06.24.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const _Ty' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49): error C2678:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49): error C2678:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49): error C2678:             _Ty=elev
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49): error C2678:         ]
+  (compiling source file 'ex18.06.24.cpp')
+  C:\Users\alexa\Desktop\itschool\ex18.06.24\ex18.06.24.cpp(36,7):
+  could be 'bool elev::operator <(const elev &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool elev::operator <(const elev &)': cannot convert 'this' pointer from 'const _Ty' to 'elev &'
+          with
+          [
+              _Ty=elev
+          ]
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  		Conversion loses qualifiers
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\set(447,17):
+  or       'bool std::operator <(const std::multiset<_Kty,_Pr,_Alloc> &,const std::multiset<_Kty,_Pr,_Alloc> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::multiset<_Kty,_Pr,_Alloc> &,const std::multiset<_Kty,_Pr,_Alloc> &)': could not deduce template argument for 'const std::multiset<_Kty,_Pr,_Alloc> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\set(230,17):
+  or       'bool std::operator <(const std::set<_Kty,_Pr,_Alloc> &,const std::set<_Kty,_Pr,_Alloc> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::set<_Kty,_Pr,_Alloc> &,const std::set<_Kty,_Pr,_Alloc> &)': could not deduce template argument for 'const std::set<_Kty,_Pr,_Alloc> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3546,30):
+  or       'bool std::operator <(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &)': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3540,30):
+  or       'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t)': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3482,17):
+  or       'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1910,17):
+  or       'bool std::operator <(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1905,17):
+  or       'bool std::operator <(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1858,17):
+  or       'bool std::operator <(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5102,17):
+  or       'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5096,17):
+  or       'bool std::operator <(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': could not deduce template argument for 'const _Elem *const ' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5090,17):
+  or       'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4251,5):
+  or       'bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': could not deduce template argument for 'const std::move_iterator<_Iter> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1716,5):
+  or       'bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': could not deduce template argument for 'const std::reverse_iterator<_BidIt> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(513,27):
+  or       'bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  	'bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'const _Ty'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  while trying to match the argument list '(const _Ty, const _Ty)'
+          with
+          [
+              _Ty=elev
+          ]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\type_traits(2439,49):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\alexa\Desktop\itschool\ex18.06.24\ex18.06.24.cpp(45,3):
+  	see reference to function template instantiation 'std::pair<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<elev>>>,bool> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert<false,0>(elev &&)' being compiled
+          with
+          [
+              _Kty=elev,
+              _Pr=std::less<elev>,
+              _Alloc=std::allocator<elev>
+          ]
+  		C:\Users\alexa\Desktop\itschool\ex18.06.24\ex18.06.24.cpp(45,10):
+  		see the first reference to 'std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::insert' in 'main'
+          with
+          [
+              _Kty=elev,
+              _Pr=std::less<elev>,
+              _Alloc=std::allocator<elev>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(1222,30):
+  	see reference to function template instantiation 'std::pair<std::_Tree_node<elev,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Emplace<elev>(elev &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<elev>,
+              _Kty=elev,
+              _Pr=std::less<elev>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(993,35):
+  	see reference to function template instantiation 'std::_Tree_find_result<std::_Tree_node<elev,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,false>>::_Find_lower_bound<_Key>(const _Keyty &) const' being compiled
+          with
+          [
+              _Alloc=std::allocator<elev>,
+              _Kty=elev,
+              _Pr=std::less<elev>,
+              _Key=elev,
+              _Keyty=elev
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xtree(1610,17):
+  	see reference to function template instantiation 'bool std::_Debug_lt_pred<const std::less<elev>&,const _Kty&,const _Keyty&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)' being compiled
+          with
+          [
+              _Kty=elev,
+              _Keyty=elev,
+              _Pr=const std::less<elev> &,
+              _Ty1=const elev &,
+              _Ty2=const elev &
+          ]
+  

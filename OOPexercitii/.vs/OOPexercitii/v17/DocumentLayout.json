@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\OOPexercitii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFF419D-B80C-495C-8268-424C6835F552}|OOPexercitii.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\OOPexercitii\\OOPexercitii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AFF419D-B80C-495C-8268-424C6835F552}|OOPexercitii.vcxproj|solutionrelative:OOPexercitii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPexercitii.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\OOPexercitii\\OOPexercitii.cpp",
+              "RelativeDocumentMoniker": "OOPexercitii.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\OOPexercitii\\OOPexercitii.cpp",
+              "RelativeToolTip": "OOPexercitii.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T13:39:40.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

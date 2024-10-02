@@ -1,0 +1,10 @@
+﻿  pointer.cpp
+C:\Users\alexa\Desktop\itschool\pointer\pointer.cpp(6,10): error C2601: 'createpointer': local function definitions are illegal
+  C:\Users\alexa\Desktop\itschool\pointer\pointer.cpp(5,1):
+  this line contains a '{' which has not yet been matched
+  
+C:\Users\alexa\Desktop\itschool\pointer\pointer.cpp(11,9): error C2601: 'main': local function definitions are illegal
+  C:\Users\alexa\Desktop\itschool\pointer\pointer.cpp(5,1):
+  this line contains a '{' which has not yet been matched
+  
+C:\Users\alexa\Desktop\itschool\pointer\pointer.cpp(5,1): error C1075: '{': no matching token found

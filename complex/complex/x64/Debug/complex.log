@@ -1,0 +1,6 @@
+﻿  complex.cpp
+C:\Users\alexa\Desktop\itschool\complex\complex.cpp(39,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alexa\Desktop\itschool\complex\complex.cpp(39,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alexa\Desktop\itschool\complex\complex.cpp(40,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alexa\Desktop\itschool\complex\complex.cpp(40,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  complex.vcxproj -> C:\Users\alexa\Desktop\itschool\complex\x64\Debug\complex.exe

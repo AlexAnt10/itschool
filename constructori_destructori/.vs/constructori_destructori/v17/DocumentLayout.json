@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\constructori_destructori\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64937BF1-9E4A-4D2B-905B-F39EF9052132}|constructori_destructori.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\constructori_destructori\\constructori_destructori.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64937BF1-9E4A-4D2B-905B-F39EF9052132}|constructori_destructori.vcxproj|solutionrelative:constructori_destructori.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "constructori_destructori.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\constructori_destructori\\constructori_destructori.cpp",
+              "RelativeDocumentMoniker": "constructori_destructori.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\constructori_destructori\\constructori_destructori.cpp",
+              "RelativeToolTip": "constructori_destructori.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T08:50:11.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

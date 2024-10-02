@@ -1,0 +1,6 @@
+﻿  blackjackVar2.cpp
+C:\Users\alexa\Desktop\itschool\blackjackVar2\blackjackVar2.cpp(57,35): warning C4566: character represented by universal-character-name '\u2665' cannot be represented in the current code page (1252)
+C:\Users\alexa\Desktop\itschool\blackjackVar2\blackjackVar2.cpp(57,42): warning C4566: character represented by universal-character-name '\u2666' cannot be represented in the current code page (1252)
+C:\Users\alexa\Desktop\itschool\blackjackVar2\blackjackVar2.cpp(57,49): warning C4566: character represented by universal-character-name '\u2663' cannot be represented in the current code page (1252)
+C:\Users\alexa\Desktop\itschool\blackjackVar2\blackjackVar2.cpp(57,56): warning C4566: character represented by universal-character-name '\u2660' cannot be represented in the current code page (1252)
+  blackjackVar2.vcxproj -> C:\Users\alexa\Desktop\itschool\blackjackVar2\x64\Debug\blackjackVar2.exe

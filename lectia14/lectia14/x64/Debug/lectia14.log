@@ -1,0 +1,21 @@
+﻿  lectia14.cpp
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,28): error C2039: 'to': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(23,1):
+  see declaration of 'std'
+  
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,28): error C2065: 'to': undeclared identifier
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,54): error C2039: 'to': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(23,1):
+  see declaration of 'std'
+  
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,54): error C2065: 'to': undeclared identifier
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,80): error C2039: 'to': is not a member of 'std'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string(23,1):
+  see declaration of 'std'
+  
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(25,80): error C2065: 'to': undeclared identifier
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(32,11): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(32,5): warning C4551: function call missing argument list
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(32,11): error C3861: 'c': identifier not found
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(33,13): error C2065: 'c': undeclared identifier
+C:\Users\alexa\Desktop\itschool\lectia14\lectia14.cpp(34,5): error C2065: 'c': undeclared identifier

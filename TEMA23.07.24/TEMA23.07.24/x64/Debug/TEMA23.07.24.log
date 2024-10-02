@@ -1,0 +1,6 @@
+﻿  TEMA23.07.24.cpp
+C:\Users\alexa\Desktop\itschool\TEMA23.07.24\TEMA23.07.24.cpp(20,21): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\alexa\Desktop\itschool\TEMA23.07.24\TEMA23.07.24.cpp(52,21): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\alexa\Desktop\itschool\TEMA23.07.24\TEMA23.07.24.cpp(63,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alexa\Desktop\itschool\TEMA23.07.24\TEMA23.07.24.cpp(67,25): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+  TEMA23.07.24.vcxproj -> C:\Users\alexa\Desktop\itschool\TEMA23.07.24\x64\Debug\TEMA23.07.24.exe

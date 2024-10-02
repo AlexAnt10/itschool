@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\caoda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4B9306-76BC-4CC9-B328-2E5CD9663F0D}|caoda.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\caoda\\caoda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA4B9306-76BC-4CC9-B328-2E5CD9663F0D}|caoda.vcxproj|solutionrelative:caoda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "caoda.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\caoda\\caoda.cpp",
+              "RelativeDocumentMoniker": "caoda.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\caoda\\caoda.cpp*",
+              "RelativeToolTip": "caoda.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T15:26:16.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22A6329-1461-47DE-90B7-254A2DEB51D5}|constructor.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\constructor\\constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D22A6329-1461-47DE-90B7-254A2DEB51D5}|constructor.vcxproj|solutionrelative:constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "constructor.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\constructor\\constructor.cpp",
+              "RelativeDocumentMoniker": "constructor.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\constructor\\constructor.cpp",
+              "RelativeToolTip": "constructor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T15:31:35.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

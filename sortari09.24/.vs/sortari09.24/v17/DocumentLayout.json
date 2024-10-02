@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\sortari09.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD38C45-A5D8-4A34-82E2-0517F010CC66}|sortari09.24.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\sortari09.24\\sortari09.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CD38C45-A5D8-4A34-82E2-0517F010CC66}|sortari09.24.vcxproj|solutionrelative:sortari09.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sortari09.24.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\sortari09.24\\sortari09.24.cpp",
+              "RelativeDocumentMoniker": "sortari09.24.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\sortari09.24\\sortari09.24.cpp*",
+              "RelativeToolTip": "sortari09.24.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T15:36:02.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\proiectBlackjack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621323DF-0EC1-407C-AA51-831549F0935C}|proiectBlackjack.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\proiectBlackjack\\proiectBlackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{621323DF-0EC1-407C-AA51-831549F0935C}|proiectBlackjack.vcxproj|solutionrelative:proiectBlackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proiectBlackjack.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\proiectBlackjack\\proiectBlackjack.cpp",
+              "RelativeDocumentMoniker": "proiectBlackjack.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\proiectBlackjack\\proiectBlackjack.cpp",
+              "RelativeToolTip": "proiectBlackjack.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T03:55:52.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

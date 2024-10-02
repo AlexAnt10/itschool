@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\hesie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A636F8-8687-4B19-A7DA-0F24860645C4}|hesie.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\hesie\\hesie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82A636F8-8687-4B19-A7DA-0F24860645C4}|hesie.vcxproj|solutionrelative:hesie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hesie.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\hesie\\hesie.cpp",
+              "RelativeDocumentMoniker": "hesie.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\hesie\\hesie.cpp",
+              "RelativeToolTip": "hesie.cpp",
+              "ViewState": "AQIAANQAAAAAAAAAAAAwwIsCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T07:09:21.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

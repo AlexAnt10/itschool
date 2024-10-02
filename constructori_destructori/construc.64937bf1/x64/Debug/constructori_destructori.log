@@ -1,0 +1,7 @@
+﻿  constructori_destructori.cpp
+C:\Users\alexa\Desktop\itschool\constructori_destructori\constructori_destructori.cpp(47,12): error C2660: 'Point::Point': function does not take 2 arguments
+  C:\Users\alexa\Desktop\itschool\constructori_destructori\constructori_destructori.cpp(26,5):
+  see declaration of 'Point::Point'
+  C:\Users\alexa\Desktop\itschool\constructori_destructori\constructori_destructori.cpp(47,12):
+  while trying to match the argument list '(int, int)'
+  

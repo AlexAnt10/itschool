@@ -1,0 +1,3 @@
+﻿  lucrustiva.cpp
+C:\Users\alexa\Desktop\itschool\lucrustiva\lucrustiva.cpp(51,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lucrustiva.vcxproj -> C:\Users\alexa\Desktop\itschool\lucrustiva\x64\Debug\lucrustiva.exe

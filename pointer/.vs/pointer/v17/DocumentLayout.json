@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\itschool\\pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC03D3-02E9-499D-A356-49085700876A}|pointer.vcxproj|C:\\Users\\alexa\\Desktop\\itschool\\pointer\\pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59DC03D3-02E9-499D-A356-49085700876A}|pointer.vcxproj|solutionrelative:pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointer.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\itschool\\pointer\\pointer.cpp",
+              "RelativeDocumentMoniker": "pointer.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\itschool\\pointer\\pointer.cpp",
+              "RelativeToolTip": "pointer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-01T16:22:22.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
